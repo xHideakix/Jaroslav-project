@@ -1,0 +1,22 @@
+{
+  "name": "jaroslav-project",
+  "version": "1.0.0",
+  "description": "Login paje",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xHideakix/Jaroslav-project.git"
+  },
+  "author": "Yegor Marchenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xHideakix/Jaroslav-project/issues"
+  },
+  "homepage": "https://github.com/xHideakix/Jaroslav-project#readme",
+  "devDependencies": {},
+  "dependencies": {
+  }
+}
